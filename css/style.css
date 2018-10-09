@@ -51,6 +51,7 @@ img:hover {
   display: inline-block;
   width: 30%;
   overflow: visible;
+  vertical-align: top;
   margin: 5px;
 }
 
