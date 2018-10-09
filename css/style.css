@@ -47,5 +47,33 @@ img:hover {
 }
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
+.column1 {
+  display: inline-block;
+  width: 33%;
+}
+
+.column2 {
+  display: inline-block;
+  width: 66%;
+}
+
+.column3 {
+  display: inline-block;
+  width: 100%;
+}
 
 /* create your tile classes! we recommend .small .med .large */
+.small {
+  width: 33%
+  height: 33%;
+}
+.medium {
+  width: 99%;
+  height: 99%;
+}
+.large {
+  width: 99%;
+  height: 99%;
+}
+
+../images/galaxy_note.jpg
