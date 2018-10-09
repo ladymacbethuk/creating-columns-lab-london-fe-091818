@@ -54,6 +54,12 @@ img:hover {
   vertical-align: top;
   margin: 5px;
 }
+.column2 {
+  display: inline-block;
+  width: 30%;
+  overflow: visible;
+  margin: 5px;
+}
 
 
 /* create your tile classes! we recommend .small .med .large */
