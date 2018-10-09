@@ -69,3 +69,7 @@ img:hover {
   width: 300%;
   height: 300%;
 }
+
+.floattest {
+  float: right;
+}
